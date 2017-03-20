@@ -6253,6 +6253,40 @@
         "collectible": true,
         "effect_list": []
     }, {
+        "id": 1800,
+        "name": "Elite Chieftain Tauren",
+        "description": "Battlecry: Give Both Players The Power To ROCK! (With A Power Chord Card)",
+        "image_url": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/pal/PRO_001.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "reward",
+        "mana": 5,
+        "attack": 5,
+        "health": 5,
+        "collectible": true,
+        "effect_list": [
+
+        ]
+    },{
+        "id": 1801,
+        "name": "Gelbin Mekkatorque",
+        "description": "Battlecry: Summon an AWESOME invetion",
+        "image_url": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/pal/EX1_112.png",
+        "hero": "neutral",
+        "category": "minion",
+        "quality": "legendary",
+        "race": "none",
+        "set": "reward",
+        "mana": 6,
+        "attack": 6,
+        "health": 6,
+        "collectible": true,
+        "effect_list": [
+
+        ]
+    }, {
         "id": 2001,
         "name": "Maexxna",
         "description": "Destroy any minion damaged by this minion.",
