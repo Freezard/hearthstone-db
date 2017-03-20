@@ -217,7 +217,7 @@
     "category": "minion",
     "mana": 1,
     "attack": 1,
-    "health": 2,
+    "health": 1,
     "name": "Small-Time Buccaneer",
     "description": "Has +2 Attack while you have a weapon equipped.",
     "image_url": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_325.png",

@@ -2061,7 +2061,7 @@
     }, {
         "id": 453,
         "name": "Coldlight Seer",
-        "description": "Battlecry: Give ALL other Murlocs +2 Health.",
+        "description": "Battlecry: Give your other Murlocs +2 Health.",
         "image_url": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/EX1_103.png",
         "hero": "neutral",
         "category": "minion",
@@ -2074,7 +2074,7 @@
         "collectible": true,
         "effect_list": [{
             "effect": "battlecry",
-            "extra": "Give ALL other Murlocs +2 Health"
+            "extra": "Give your other Murlocs +2 Health"
         }]
     }, {
         "id": 455,
@@ -2232,7 +2232,7 @@
     }, {
         "id": 475,
         "name": "Murloc Tidecaller",
-        "description": "Whenever a Murloc is summoned, gain +1 Attack.",
+        "description": "Whenever you summon a Murloc, gain +1 Attack.",
         "image_url": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/EX1_509.png",
         "hero": "neutral",
         "category": "minion",
@@ -2343,7 +2343,7 @@
     }, {
         "id": 510,
         "name": "Grimscale Oracle",
-        "description": "ALL other Murlocs have +1 Attack.",
+        "description": "Your other Murlocs have +1 Attack.",
         "image_url": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/EX1_508.png",
         "hero": "neutral",
         "category": "minion",
@@ -5121,7 +5121,7 @@
     }, {
         "id": 1063,
         "name": "Murloc Warleader",
-        "description": "ALL other Murlocs have +2/+1.",
+        "description": "Your other Murlocs have +2/+1.",
         "image_url": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/EX1_507.png",
         "hero": "neutral",
         "category": "minion",
@@ -14414,7 +14414,7 @@
         "collectible": true,
         "quality": "common",
         "category": "weapon",
-        "mana": 1,
+        "mana": 2,
         "attack": 1,
         "health": 3,
         "name": "Spirit Claws",
@@ -14460,7 +14460,7 @@
         "attack": 5,
         "health": 6,
         "name": "Ethereal Peddler",
-        "description": "Battlecry: Reduce the Cost of cards in your hand from other classes by (2).",
+        "description": "Battlecry: If you're holding any non-Rogue class cards, reduce their Cost by (2).",
         "image_url": "http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_070.png",
         "hero": "rogue",
         "race": "none"
@@ -14948,7 +14948,7 @@
         "category": "minion",
         "mana": 1,
         "attack": 1,
-        "health": 2,
+        "health": 1,
         "name": "Small-Time Buccaneer",
         "description": "Has +2 Attack while you have a weapon equipped.",
         "image_url": "http://media.services.zam.com/v1/media/byName/hs/cards/enus/CFM_325.png",

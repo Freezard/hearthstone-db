@@ -340,7 +340,7 @@
       "collectible":true,
       "quality":"common",
       "category":"weapon",
-      "mana":1,
+      "mana":2,
       "attack":1,
       "health":3,
       "name":"Spirit Claws",
@@ -389,7 +389,7 @@
       "attack":5,
       "health":6,
       "name":"Ethereal Peddler",
-      "description":"Battlecry: Reduce the Cost of cards in your hand from other classes by (2).",
+      "description":"Battlecry: If you're holding any non-Rogue class cards, reduce their Cost by (2).",
       "image_url":"http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_070.png",
       "hero":"rogue",
       "race":"none"
