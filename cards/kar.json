@@ -299,7 +299,7 @@
       "attack":4,
       "health":4,
       "name":"Ivory Knight",
-      "description":"[x]Battlecry: Discover a spell. Restore Health to your hero equal to its Cost.",
+      "description":"Battlecry: Discover a spell. Restore Health to your hero equal to its Cost.",
       "image_url":"http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_057.png",
       "hero":"paladin",
       "race":"none"
@@ -344,7 +344,7 @@
       "attack":1,
       "health":3,
       "name":"Spirit Claws",
-      "description":"[x]Has +2 Attack while you have Spell Damage.",
+      "description":"Has +2 Attack while you have Spell Damage.",
       "image_url":"http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_063.png",
       "hero":"shaman",
       "race":"none"
@@ -389,7 +389,7 @@
       "attack":5,
       "health":6,
       "name":"Ethereal Peddler",
-      "description":"[x]Battlecry: Reduce the Cost of cards in your hand from other classes by (2).",
+      "description":"Battlecry: Reduce the Cost of cards in your hand from other classes by (2).",
       "image_url":"http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_070.png",
       "hero":"rogue",
       "race":"none"
@@ -539,7 +539,7 @@
       "attack":5,
       "health":6,
       "name":"Prince Malchezaar",
-      "description":"[x]When the game starts, add 5 extra Legendary minions to your deck.",
+      "description":"When the game starts, add 5 extra Legendary minions to your deck.",
       "image_url":"http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_096.png",
       "hero":"neutral",
       "race":"demon"
@@ -659,7 +659,7 @@
       "attack":8,
       "health":8,
       "name":"Arcane Giant",
-      "description":"[x]Costs (1) less for each spell you've cast this game.",
+      "description":"Costs (1) less for each spell you've cast this game.",
       "image_url":"http://wow.zamimg.com/images/hearthstone/cards/enus/medium/KAR_711.png",
       "hero":"neutral",
       "race":"none"
