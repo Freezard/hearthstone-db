@@ -24,7 +24,7 @@
     {
         "id": 2002,
         "name": "Loatheb",
-        "description": "<b>Battlecry:</b> Enemy spells cost (5) more next turn.",
+        "description": "Battlecry: Enemy spells cost (5) more next turn.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_030.png",
         "hero": "neutral",
         "category": "minion",
@@ -45,7 +45,7 @@
     {
         "id": 2003,
         "name": "Baron Rivendare",
-        "description": "Your minions trigger their <b>Deathrattles</b> twice.",
+        "description": "Your minions trigger their Deathrattles twice.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_031.png",
         "hero": "neutral",
         "category": "minion",
@@ -63,7 +63,7 @@
     {
         "id": 2004,
         "name": "Feugen",
-        "description": "<b>Deathrattle:</b> If Stalagg also died this game, summon Thaddius.",
+        "description": "Deathrattle: If Stalagg also died this game, summon Thaddius.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_015.png",
         "hero": "neutral",
         "category": "minion",
@@ -84,7 +84,7 @@
     {
         "id": 2005,
         "name": "Stalagg",
-        "description": "<b>Deathrattle:</b> If Feugen also died this game, summon Thaddius.",
+        "description": "Deathrattle: If Feugen also died this game, summon Thaddius.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_014.png",
         "hero": "neutral",
         "category": "minion",
@@ -123,7 +123,7 @@
     {
         "id": 2007,
         "name": "Haunted Creeper",
-        "description": "<b>Deathrattle:</b> Summon two 1/1 Spectral Spiders.",
+        "description": "Deathrattle: Summon two 1/1 Spectral Spiders.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_002.png",
         "hero": "neutral",
         "category": "minion",
@@ -162,7 +162,7 @@
     {
         "id": 2009,
         "name": "Nerubian Egg",
-        "description": "<b>Deathrattle:</b> Summon a 4/4 Nerubian.",
+        "description": "Deathrattle: Summon a 4/4 Nerubian.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_007.png",
         "hero": "neutral",
         "category": "minion",
@@ -201,7 +201,7 @@
     {
         "id": 2011,
         "name": "Unstable Ghoul",
-        "description": "<b>Taunt.</b> <b>Deathrattle:</b> Deal 1 damage to all minions.",
+        "description": "Taunt. Deathrattle: Deal 1 damage to all minions.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_024.png",
         "hero": "neutral",
         "category": "minion",
@@ -226,7 +226,7 @@
     {
         "id": 2012,
         "name": "Sludge Belcher",
-        "description": "<b>Taunt.</b> <b>Deathrattle:</b> Summon a 1/2 Slime with Taunt.",
+        "description": "Taunt. Deathrattle: Summon a 1/2 Slime with Taunt.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_012.png",
         "hero": "neutral",
         "category": "minion",
@@ -251,7 +251,7 @@
     {
         "id": 2013,
         "name": "Dancing Swords",
-        "description": "<b>Deathrattle:</b> Your opponent draws a card.",
+        "description": "Deathrattle: Your opponent draws a card.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_029.png",
         "hero": "neutral",
         "category": "minion",
@@ -290,7 +290,7 @@
     {
         "id": 2015,
         "name": "Deathlord",
-        "description": "<b>Taunt.</b> <b>Deathrattle:</b> Your opponent puts a minion from their deck into the battlefield.",
+        "description": "Taunt. Deathrattle: Your opponent puts a minion from their deck into the battlefield.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_009.png",
         "hero": "neutral",
         "category": "minion",
@@ -333,7 +333,7 @@
     {
         "id": 2017,
         "name": "Mad Scientist",
-        "description": "<b>Deathrattle:</b> Put a Secret from your deck into the battlefield.",
+        "description": "Deathrattle: Put a Secret from your deck into the battlefield.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_004.png",
         "hero": "neutral",
         "category": "minion",
@@ -354,7 +354,7 @@
     {
         "id": 2018,
         "name": "Zombie Chow",
-        "description": "<b>Deathrattle:</b> Restore 5 Health to the enemy hero.",
+        "description": "Deathrattle: Restore 5 Health to the enemy hero.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_001.png",
         "hero": "neutral",
         "category": "minion",
@@ -375,7 +375,7 @@
     {
         "id": 2019,
         "name": "Wailing Soul",
-        "description": "<b>Battlecry:</b> Silence your other minions.",
+        "description": "Battlecry: Silence your other minions.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_016.png",
         "hero": "neutral",
         "category": "minion",
@@ -396,7 +396,7 @@
     {
         "id": 2020,
         "name": "Echoing Ooze",
-        "description": "<b>Battlecry:</b> Summon an exact copy of this minion at the end of the turn.",
+        "description": "Battlecry: Summon an exact copy of this minion at the end of the turn.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_003.png",
         "hero": "neutral",
         "category": "minion",
@@ -417,7 +417,7 @@
     {
         "id": 2021,
         "name": "Shade of Naxxramas",
-        "description": "<b>Stealth.</b> At the start of your turn, gain +1/+1.",
+        "description": "Stealth. At the start of your turn, gain +1/+1.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_005.png",
         "hero": "neutral",
         "category": "minion",
@@ -456,7 +456,7 @@
     {
         "id": 2023,
         "name": "Webspinner",
-        "description": "<b>Deathrattle:</b> Add a random Beast card to your hand.",
+        "description": "Deathrattle: Add a random Beast card to your hand.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_011.png",
         "hero": "hunter",
         "category": "minion",
@@ -477,7 +477,7 @@
     {
         "id": 2024,
         "name": "Duplicate",
-        "description": "<b>Secret:</b> When a friendly minion dies, put 2 copies of it into your hand.",
+        "description": "Secret: When a friendly minion dies, put 2 copies of it into your hand.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_018.png",
         "hero": "mage",
         "category": "secret",
@@ -498,7 +498,7 @@
     {
         "id": 2025,
         "name": "Avenge",
-        "description": "<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.",
+        "description": "Secret: When one of your minions dies, give a random friendly minion +3/+2.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_020.png",
         "hero": "paladin",
         "category": "secret",
@@ -519,7 +519,7 @@
     {
         "id": 2026,
         "name": "Dark Cultist",
-        "description": "<b>Deathrattle:</b> Give a random friendly minion +3 Health.",
+        "description": "Deathrattle: Give a random friendly minion +3 Health.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_023.png",
         "hero": "priest",
         "category": "minion",
@@ -540,7 +540,7 @@
     {
         "id": 2027,
         "name": "Anub'ar Ambusher",
-        "description": "<b>Deathrattle:</b> Return a random friendly minion to your hand.",
+        "description": "Deathrattle: Return a random friendly minion to your hand.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_026.png",
         "hero": "rogue",
         "category": "minion",
@@ -579,7 +579,7 @@
     {
         "id": 2029,
         "name": "Voidcaller",
-        "description": "<b>Deathrattle:</b> Put a random Demon from your hand into the battlefield.",
+        "description": "Deathrattle: Put a random Demon from your hand into the battlefield.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_022.png",
         "hero": "warlock",
         "category": "minion",
@@ -600,7 +600,7 @@
     {
         "id": 2030,
         "name": "Death's Bite",
-        "description": "<b>Deathrattle:</b> Deal 1 damage to all minions.",
+        "description": "Deathrattle: Deal 1 damage to all minions.",
         "image_url": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_021.png",
         "hero": "warrior",
         "category": "weapon",
